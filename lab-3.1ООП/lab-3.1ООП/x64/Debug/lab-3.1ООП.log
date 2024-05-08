@@ -1,0 +1,7 @@
+﻿  RightAngled.cpp
+C:\Users\Admin\Desktop\ООП\lab-3.1ООП\lab-3.1ООП\RightAngled.cpp(14,1): error C2059: syntax error: 'constant'
+C:\Users\Admin\Desktop\ООП\lab-3.1ООП\lab-3.1ООП\RightAngled.cpp(16,45): error C2143: syntax error: missing ';' before '{'
+C:\Users\Admin\Desktop\ООП\lab-3.1ООП\lab-3.1ООП\RightAngled.cpp(16,45): error C2447: '{': missing function header (old-style formal list?)
+  Source.cpp
+  Triangle.cpp
+  Generating Code...
